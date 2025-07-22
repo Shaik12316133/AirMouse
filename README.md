@@ -14,7 +14,11 @@ AirMouse transforms your webcam into a touch-free mouse controller, using hand g
 ---
 
 ## 🚀 How to Use:
-1. Install dependencies:
+1. Install dependencies.
+2. Run the Batch file.
+3. Check your System tray for the icon.
+4. Right click to enable or disable/exit.
+   
 ```bash
 pip install opencv-python mediapipe pyautogui pystray pillow numpy
 python app.py
