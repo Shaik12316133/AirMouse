@@ -18,3 +18,5 @@ AirMouse transforms your webcam into a touch-free mouse controller, using hand g
 1. Install dependencies:
 ```bash
 pip install opencv-python mediapipe pyautogui pystray pillow numpy
+
+<img width="1536" height="1024" alt="ChatGPT Image Jul 23, 2025, 12_31_11 AM" src="https://github.com/user-attachments/assets/9ab257f3-1522-4dd1-8f6d-b9ccf2f87a03" />
